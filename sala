@@ -1,0 +1,8 @@
+#   Entrar uma string e imprimir ela separada por vigulas.
+
+s= "ABACAXI"
+len =(s)
+for k in  range(n):
+print(s [0:1]+",",end="")
+
+print("")
