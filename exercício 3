@@ -1,3 +1,5 @@
 #Exercicio 3
 #Entrar duas Strings e - Testar se uma esta contida na outra.
 #----------------------- Mostra as posiçoes desta Dentro da outra.
+string1 = "elefante"
+string2 = "12345678"
