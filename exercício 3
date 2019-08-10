@@ -3,3 +3,4 @@
 #----------------------- Mostra as posiçoes desta Dentro da outra.
 string1 = "elefante"
 string2 = "12345678"
+print( string1 in string2)
