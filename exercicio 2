@@ -1,0 +1,7 @@
+# 2 Entrar string sair invertido.
+
+s= "A","B","C","D","E","F"
+b= "abcdef"
+
+print(s [::-1])
+print(b [::-1])
