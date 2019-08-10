@@ -5,3 +5,12 @@ b= "abcdef"
 
 print(s [::-1])
 print(b [::-1])
+
+# 2 Entrar string sair invertido.
+
+b= "elefante123456789"
+s= len(b)
+
+for k in range(s):
+
+    print(b[s-k-1],end="")
