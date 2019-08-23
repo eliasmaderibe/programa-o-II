@@ -1,0 +1,8 @@
+#s= "o gato morreu"
+#s= s.replace ("a","4")
+#s= s.replace ("e","3")
+#s= s.replace ("i","1")
+#s= s.replace ("b","8")
+#s= s.replace ("8","0")
+
+#print (s)
